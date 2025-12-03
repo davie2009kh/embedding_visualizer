@@ -20,7 +20,7 @@ forms geometric structure in high-dimensional space.
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/<your-username>/embedding-visualizer.git
+git clone https://github.com/davie2009kh/embedding-visualizer.git
 cd embedding-visualizer
 pip install -r requirements.txt
 ```
