@@ -36,12 +36,6 @@ pip install -r requirements.txt
 
 ---
 
-## 📈 Example Output
-
-(Add a screenshot of your 3D plot here)
-
----
-
 ## 🗂 Project Structure
 
 ```
